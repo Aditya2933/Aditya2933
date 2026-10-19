@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img src="https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png" alt="Aditya Singh" width="400" align="right" />
+
 
 - 🌱 I’m currently learning **Next.js, Generative AI, and Cloud Architecture**
 
