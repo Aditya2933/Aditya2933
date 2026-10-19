@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmY5Tx0MfgADUu_vxU-QW_RE3SzZWacuXJhUaMcBiIENjN5lAsS0H7cws&s=10" alt="MasterHead" width="800" length="1000"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
+
 <img src="https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png" alt="Aditya Singh" width="400" align="right" />
 
 
